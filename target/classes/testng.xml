@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Maven Test Aut">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
+	</listeners>
+	
+	<test name="Maven Test Cases First">
+		<classes>
+			<class name="com.qa.tests.LoginPageTest" />
+			<class name="com.qa.tests.HomePageTest" /> 
+		</classes>
+	</test>	
+	
+	 <!-- 
+	<test name="Maven Test Cases Second">	
+		<classes>
+			<class name="com.qa.tests.ContactsPagTest" />
+		</classes>
+	</test>
+	-->
+</suite>

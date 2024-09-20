@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-20T12:23:34 IST" name="Maven Test Aut" finished-at="2024-09-20T12:24:13 IST" duration-ms="39807">
+    <groups>
+    </groups>
+    <test started-at="2024-09-20T12:23:34 IST" name="Maven Test Cases First" finished-at="2024-09-20T12:24:13 IST" duration-ms="39807">
+      <class name="com.qa.tests.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.HomePageTest@402c4085]" started-at="2024-09-20T12:23:53 IST" name="setUp" finished-at="2024-09-20T12:23:59 IST" duration-ms="6648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="homePageTest()[pri:1, instance:com.qa.tests.HomePageTest@402c4085]" started-at="2024-09-20T12:23:59 IST" name="homePageTest" finished-at="2024-09-20T12:24:03 IST" duration-ms="3020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@402c4085]" started-at="2024-09-20T12:24:03 IST" name="tearDown" finished-at="2024-09-20T12:24:03 IST" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.HomePageTest@402c4085]" started-at="2024-09-20T12:24:03 IST" name="setUp" finished-at="2024-09-20T12:24:10 IST" duration-ms="7284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contactLinkTest()[pri:2, instance:com.qa.tests.HomePageTest@402c4085]" started-at="2024-09-20T12:24:10 IST" name="contactLinkTest" finished-at="2024-09-20T12:24:13 IST" duration-ms="2798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@402c4085]" started-at="2024-09-20T12:24:13 IST" name="tearDown" finished-at="2024-09-20T12:24:13 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.HomePageTest -->
+      <class name="com.qa.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@1ca3b418]" started-at="2024-09-20T12:23:34 IST" name="setUp" finished-at="2024-09-20T12:23:42 IST" duration-ms="8802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginpageTitleTest()[pri:1, instance:com.qa.tests.LoginPageTest@1ca3b418]" started-at="2024-09-20T12:23:42 IST" name="loginpageTitleTest" finished-at="2024-09-20T12:23:42 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@1ca3b418]" started-at="2024-09-20T12:23:42 IST" name="tearDown" finished-at="2024-09-20T12:23:43 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@1ca3b418]" started-at="2024-09-20T12:23:43 IST" name="setUp" finished-at="2024-09-20T12:23:49 IST" duration-ms="6268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:2, instance:com.qa.tests.LoginPageTest@1ca3b418]" started-at="2024-09-20T12:23:49 IST" name="loginTest" finished-at="2024-09-20T12:23:53 IST" duration-ms="3496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@1ca3b418]" started-at="2024-09-20T12:23:53 IST" name="tearDown" finished-at="2024-09-20T12:23:53 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.LoginPageTest -->
+    </test> <!-- Maven Test Cases First -->
+  </suite> <!-- Maven Test Aut -->
+</testng-results>
