@@ -16,6 +16,7 @@ public class LoginPage extends TestBase{
 	
 	public LoginPage() {
 		PageFactory.initElements(driver, this);
+		System.out.println("TEsting");
 	}
 	
 	public String validateLoginpageTitle() {
